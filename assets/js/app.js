@@ -1,5 +1,5 @@
-// Template Name: Nexus
-// Description:  Nexus - Digital Agency HTML Template
+// Template Name: GenAIWave
+// Description:  GenAIWave - Digital Agency HTML Template
 // Version: 1.0.0
 // ==========================================================
 // Detect mobile device and add class "is-mobile" to </body>
